@@ -14,4 +14,4 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-A new bit of text to test the Jenkins trigger!
+A replacement bit of text to test the Jenkins trigger!
